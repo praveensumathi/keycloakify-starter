@@ -1,0 +1,16 @@
+.formHeader {
+    color: red;
+    text-align: center;
+}
+.mainHeader {
+    color: rgb(26, 14, 255) !important;
+    text-align: center;
+}
+
+.language-select {
+    display: none;
+}
+
+.card_class {
+    border-top: none;
+}
